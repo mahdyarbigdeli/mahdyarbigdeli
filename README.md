@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdyarbigdeli&label=Profile%20views&color=0e75b6&style=flat" alt="mahdyarbigdeli" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdyarbigdeli" alt="mahdyarbigdeli" /></a> </p>
-
-- 🔭 I’m currently working on **Aldy**
-
 - 🌱 I’m currently learning **Software Developement Tools**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mahdyarbigdeli](https://github.com/mahdyarbigdeli)
 
 - 📫 How to reach me **mahdyarbigdeli11@gmail.com**
 
